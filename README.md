@@ -6,7 +6,7 @@ Types are sourced from SsODNet (Berthier et al., 2023) and the AGAI catalog (Ge 
 The albedo and diameter are simultaneously estimated by a deep learning model (AadNet2) using the following input parameters:
 semimajor axis, eccentricity, inclination, perihelion distance, aphelion distance, orbital period, semilatus rectum, absolute magnitude, type, type quality, and initial albedo.
 
-# Attribute fields in the ATAD catalog
+# Attribute fields
 Number: MPC asteroid number;
 
 Type: Taxonomic classification;
