@@ -1,4 +1,6 @@
+=
 Description of the Asteroid Type, Albedo, and Diameter Catalog (ATAD)
+=
 
 This catalog contains taxonomic types, visible-band geometric albedo and effective diameter of 188,742 asteroids.
 
@@ -19,9 +21,9 @@ Albedo uncertainty: Uncertainty of the predicted albedo;
 Diameter (km): Effective diameter predicted by the AadNet2 model;
 Diameter uncertainty (km): Uncertainty of the predicted effective diameter.
 
-=======================================================================
+=
 References
-=======================================================================
+=
 Berthier J, Carry B, Mahlke M, et al. 2023. SsODNet: Solar system Open Database Network[J]. Astronomy & Astrophysics, 671: A151.
 Ge J., Zhang X., Li J., et al. 2024. Asteroid material classification based on multi-parameter constraints using artificial intelligence[J]. Astronomy & Astrophysics, 692, A100.
 Ge J, Zhang X, Li J, et al. 2025. Asteroid Types, Albedos, and Diameters Catalog from Gaia DR3: Intelligent Inversion Results via Multisource Information Fusion[J]. The Astrophysical Journal Supplement Series, 280(1): 17.
