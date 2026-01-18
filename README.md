@@ -1,7 +1,8 @@
 # The Asteroid Type, Albedo, and Diameter Catalog (ATAD)
 This catalog contains taxonomic types, visible geometric albedo and effective diameter of 188,742 asteroids.
 
-Types are sourced from SsODNet (Berthier et al., 2023) and the AGAI catalog (Ge et al., 2025). These have been unified into six classes: A, C, D, S, V, and X (Ge et al., 2024). 
+Types are sourced from SsODNet (Berthier et al., 2023) and the AGAI catalog (Ge et al., 2025). These have been unified into six types: A, C, D, S, V, and X (Ge et al., 2024).
+Samples with ambiguous types that could not be definitively mapped to this classification system were removed.
 
 The albedo and diameter are simultaneously estimated by a deep learning model (AadNet2) using the following input parameters:
 semimajor axis, eccentricity, inclination, perihelion distance, aphelion distance, orbital period, semilatus rectum, absolute magnitude, type, type quality, and initial albedo.
