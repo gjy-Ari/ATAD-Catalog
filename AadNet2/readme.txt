@@ -11,7 +11,7 @@ Folders
 ===========
 data: Contains the datasets used for training and validation, including both unnormalized and normalized versions.
 
-model: Contains AadNet2.pth, the finalized model for application. It was trained using a comprehensive sample, including spacecraft-probed asteroids, to ensure maximum generalization performance.
+model: Contains AadNet2.pth, the finalized model for application.
 
 predict: Contains input data and the resulting outputs for constructing the ATAD catalog by applying the AadNet2.pth model.
 
@@ -24,5 +24,6 @@ scikit_learn==1.4.1.post1
 pandas==2.3.3
 numpy==1.25.2
 matplotlib==3.8.0
+
 
 
